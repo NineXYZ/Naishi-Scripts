@@ -2,9 +2,10 @@
 // @name        Moodle Feedback Wizard🧙🏼‍♂️
 // @namespace   https://github.com/NineXYZ/Naishi-Scripts/
 // @supportURL  https://github.com/NineXYZ/Naishi-Scripts/
-// @version     1.0
+// @version     1.1
 // @author      NineXYZ
 // @license     GPLv3
+// @icon        https://raw.githubusercontent.com/NineXYZ/Naishi-Scripts/main/wizard.webp
 // @description Auto-fill (Rating as "good") and auto-complete the "Send us your Opinion" forms within the courses on the Moodle platform of Universidad Latina de Panamá. 
 // @match       https://moodle.ulatina.edu.pa/course/view.php?id=*
 // @match       https://moodle.ulatina.edu.pa/mod/feedback/view.php?id=*
